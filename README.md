@@ -1,11 +1,11 @@
 # 👋 Welcome
-# Im a IT-Student at Elvebakken VGS,
-# I Like Linux, C, Typescript and Neovim.
+Im a IT-Student at Elvebakken VGS,
+I Like Linux, C, Typescript and Neovim.
 
 # What i do:
-# * Webapps: NextJS/Typescript
-# * Games: Raylib/C
-# * Cybersecurity: Python
+  * Webapps: NextJS/Typescript
+  * Games: Raylib/C
+  * Cybersecurity: Python
 
 
 # 💻 Tech Stack:

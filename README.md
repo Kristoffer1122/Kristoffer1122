@@ -1,6 +1,6 @@
 # 👋 Welcome
 Im a IT-Student at Elvebakken VGS,
-I Like Linux, C, Typescript and Neovim.
+I Like Linux, C, React and Neovim.
 
 # What i do:
   * Webapps: NextJS/Typescript
